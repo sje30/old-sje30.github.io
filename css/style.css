@@ -6,3 +6,13 @@ pre {
     max-width: 80ch;
 }
 
+
+/* to align images: */
+/* https://discuss.gohugo.io/t/handling-images-size-aligning/1940 */
+
+img[src$='#floatright']
+{
+    float:right;
+    padding:10px;
+       //etc. etc.
+}
