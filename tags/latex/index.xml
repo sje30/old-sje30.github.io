@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latex on Stephen J Eglen</title>
-    <link>http://sje30.github.io/tags/latex/</link>
+    <link>http://sje30.github.io/tags/latex/index.xml</link>
     <description>Recent content in Latex on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2016 14:48:09 +0000</lastBuildDate>
-    <atom:link href="http://sje30.github.io/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2016 ~ Stephen J Eglen</copyright>
+    <atom:link href="/tags/latex/index.xml" rel="self" type="application/rss+xml" />
     
       
         
@@ -23,7 +23,7 @@
 undergraduates and Masters students.  After the lecture, I normally
 host a lab session for students to work through some material.&lt;/p&gt;
 
-&lt;h1 id=&#34;slides:cc23dcfc869dd2ccbfe381c417322b16&#34;&gt;Slides&lt;/h1&gt;
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;The
 &lt;a href=&#34;https://github.com/sje30/latex101/blob/master/latex101.pdf&#34;&gt;slides&lt;/a&gt;
@@ -33,7 +33,7 @@ source code for the files are available on
 &lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.  (New for 2016 is that
 I&amp;rsquo;ve switch to the &lt;em&gt;sourcesanspro&lt;/em&gt; font.)&lt;/p&gt;
 
-&lt;h1 id=&#34;lab-material:cc23dcfc869dd2ccbfe381c417322b16&#34;&gt;Lab material&lt;/h1&gt;
+&lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
 
 &lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
 their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
@@ -62,7 +62,7 @@ this is to do:&lt;/p&gt;
 undergraduates and Masters students.  After the lecture, I normally
 host a lab session for students to work through some material.&lt;/p&gt;
 
-&lt;h1 id=&#34;slides:cc23dcfc869dd2ccbfe381c417322b16&#34;&gt;Slides&lt;/h1&gt;
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;The
 &lt;a href=&#34;https://github.com/sje30/latex101/blob/master/latex101.pdf&#34;&gt;slides&lt;/a&gt;
@@ -72,7 +72,7 @@ source code for the files are available on
 &lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.  (New for 2016 is that
 I&amp;rsquo;ve switch to the &lt;em&gt;sourcesanspro&lt;/em&gt; font.)&lt;/p&gt;
 
-&lt;h1 id=&#34;lab-material:cc23dcfc869dd2ccbfe381c417322b16&#34;&gt;Lab material&lt;/h1&gt;
+&lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
 
 &lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
 their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
