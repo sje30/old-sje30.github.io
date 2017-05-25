@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Stephen J Eglen</title>
-    <link>http://sje30.github.io/page/</link>
+    <link>http://sje30.github.io/page/index.xml</link>
     <description>Recent content in Pages on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>2016 ~ Stephen J Eglen</copyright>
     <lastBuildDate>Wed, 02 Mar 2016 14:49:35 +0000</lastBuildDate>
-    <atom:link href="http://sje30.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
       
     

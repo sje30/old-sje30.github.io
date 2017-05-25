@@ -2,12 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Stephen J Eglen</title>
-    <link>http://sje30.github.io/post/</link>
+    <link>http://sje30.github.io/post/index.xml</link>
     <description>Recent content in Posts on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2016 14:48:09 +0000</lastBuildDate>
-    <atom:link href="http://sje30.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2016 ~ Stephen J Eglen</copyright>
+    <lastBuildDate>Thu, 25 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>Towards standard practice for sharing of code and data in neuroscience</title>
+            <link>http://sje30.github.io/post/code-sharing/</link>
+            <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+            
+            <guid>http://sje30.github.io/post/code-sharing/</guid>
+            <description>
+
+&lt;p&gt;Scientists are increasingly dependent on computational techniques to
+analyse large volumes of data.  These computational methods are often
+tailored to the particular analysis in mind, and as such are valuable
+research outputs.  Furthermore, unlike experimental techniques,
+computational methods can be easily shared.  However, at least in
+neuroscience, computational methods are not routinely shared upon
+publication of associated manuscripts.&lt;/p&gt;
+
+&lt;p&gt;To improve this situation, we have worked with the editors of &lt;em&gt;Nature
+Neuroscience&lt;/em&gt; to establish a pilot &lt;em&gt;code review&lt;/em&gt; project.  Once papers
+have been  approved in principle for publication, authors can opt-in to
+the code review.  The code (and data) will be checked to see if
+independent reviewers can reproduce key findings of the paper.  The
+details of the code review process are outlined in the
+&lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;editorial&lt;/a&gt;, and we have written a &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html&#34;&gt;Commentary&lt;/a&gt; to describe
+good practice for sharing of code and data.  For example, we suggest
+the minimum requirement for sharing is that sufficient code and data
+be provided to regenerate a key figure/table of the paper.  This
+follows the well-established requirements for submitting code to
+&lt;a href=&#34;http://modeldb.yale.edu&#34;&gt;modeldb&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Although our current guidelines are focused around code and data in
+Neuroscience, most of our suggestions apply across many scientific
+disciplines.  Just as journals (and funders) now require the sharing
+of data underlying a research paper, we believe the underlying code
+should also be freely shared.  We hope that other journals
+will adapt appropriate policies to allow for the long-term sharing and
+reuse of scientific code.  By sharing the code and data relating to
+research articles, communities will be able to reproduce and extend
+upon each other&amp;rsquo;s work.  This should lead to more robust scientific
+results and reduce duplication of effort.&lt;/p&gt;
+
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+
+&lt;p&gt;This project emerged from discussions at a workshop to encourage
+sharing in neuroscience, held in Cambridge, December 2014.  It was
+financially supported and organized by the &lt;a href=&#34;http://www.incf.org&#34;&gt;International
+Neuroinformatics Coordinating Facility&lt;/a&gt;,
+with additional support from the
+&lt;a href=&#34;http://www.software.ac.uk&#34;&gt;Software Sustainability Institute&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;2017&#34;&gt;1&lt;/a&gt; Extending transparency to code. Nat Neurosci 20:761–761.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;Article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] Eglen SJ, Marwick B, Halchenko YO, Hanke M, Sufi S, Gleeson P,
+Angus Silver R, Davison AP, Lanyon L, Abrams M, Wachtler T, Willshaw
+DJ, Pouzat C, Poline J-B (2017) Toward standard practices for sharing
+computer code and programs in neuroscience. Nat Neurosci 20:770–773.  &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html&#34;&gt;Article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nature.com/neuro/index.html&#34;&gt;Commentary&lt;/a&gt;&lt;/p&gt;
+</description>
+          </item>
+        
+      
     
       
         
@@ -23,7 +92,7 @@
 undergraduates and Masters students.  After the lecture, I normally
 host a lab session for students to work through some material.&lt;/p&gt;
 
-&lt;h1 id=&#34;slides:cc23dcfc869dd2ccbfe381c417322b16&#34;&gt;Slides&lt;/h1&gt;
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
 
 &lt;p&gt;The
 &lt;a href=&#34;https://github.com/sje30/latex101/blob/master/latex101.pdf&#34;&gt;slides&lt;/a&gt;
@@ -33,7 +102,7 @@ source code for the files are available on
 &lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.  (New for 2016 is that
 I&amp;rsquo;ve switch to the &lt;em&gt;sourcesanspro&lt;/em&gt; font.)&lt;/p&gt;
 
-&lt;h1 id=&#34;lab-material:cc23dcfc869dd2ccbfe381c417322b16&#34;&gt;Lab material&lt;/h1&gt;
+&lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
 
 &lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
 their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
@@ -72,7 +141,7 @@ with functional data should provide a more complete understanding of
 how the nervous system in different animal species is organized to
 generate appropriate behaviour.&lt;/p&gt;
 
-&lt;h4 id=&#34;table-of-contents:5790eb21c12bba61093a090e8088e524&#34;&gt;Table of contents&lt;/h4&gt;
+&lt;h4 id=&#34;table-of-contents&#34;&gt;Table of contents&lt;/h4&gt;
 
 &lt;p&gt;&lt;em&gt;Editorial: Quantitative Analysis of Neuroanatomy&lt;/em&gt;
 Julian M. L. Budd, Hermann Cuntz, Stephen J. Eglen and Patrik
@@ -187,7 +256,7 @@ meeting brought together several research groups for the first team,
 and has already resulted in several new collaborations across the
 theoretical&amp;ndash;experimental divide.&lt;/p&gt;
 
-&lt;h4 id=&#34;posters:37f52004311e0bfa3f75e36e9db26075&#34;&gt;Posters&lt;/h4&gt;
+&lt;h4 id=&#34;posters&#34;&gt;Posters&lt;/h4&gt;
 
 &lt;p&gt;Twenty-three posters were presented at the meeting.  On the second
 evening of the meeting we ran a ``lightning session&amp;rdquo; where each
@@ -196,7 +265,7 @@ This was regarded as a great innovation, both by the audience and the
 poster presenters, and as such we would like to repeat it in future
 meetings.&lt;/p&gt;
 
-&lt;h4 id=&#34;maps2017-org:37f52004311e0bfa3f75e36e9db26075&#34;&gt;Maps2017.org ?&lt;/h4&gt;
+&lt;h4 id=&#34;maps2017-org&#34;&gt;Maps2017.org ?&lt;/h4&gt;
 
 &lt;p&gt;At the closing discussion session, there was significant support for a
 future meeting in this area, as no other international meeting
