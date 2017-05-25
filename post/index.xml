@@ -34,7 +34,7 @@ have been  approved in principle for publication, authors can opt-in to
 the code review.  The code (and data) will be checked to see if
 independent reviewers can reproduce key findings of the paper.  The
 details of the code review process are outlined in the
-&lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;editorial&lt;/a&gt;, and we have written a &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html&#34;&gt;Commentary&lt;/a&gt; to describe
+&lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;editorial&lt;/a&gt;, and we have written a &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html&#34;&gt;commentary&lt;/a&gt; to describe
 good practice for sharing of code and data.  For example, we suggest
 the minimum requirement for sharing is that sufficient code and data
 be provided to regenerate a key figure/table of the paper.  This
