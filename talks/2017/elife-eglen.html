@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Reproducible research</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Stephen J Eglen" />
+    <meta name="date" content="2017-06-26" />
+    <link href="libs/remark-css/example.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Reproducible research
+## hello
+### Stephen J Eglen
+### 2017-06-26
+
+---
+
+
+---
+
+## Research sharing: the inverse problem
+
+&lt;br&gt;
+
+&lt;center&gt;&lt;img src="../../2015/2015-10-23-scidata15/figs/rr.svg"
+	height="400px" /&gt;&lt;/center&gt;
+
+---
+
+## Reproducible papers
+
+1. [Eglen et al. (2014)](https://github.com/sje30/waverepo)
+2. [Eglen (2015)](https://github.com/sje30/eglen2015)
+
+### Lessons I learnt
+
+1. Editors loved this.
+2. Reviewers engaged, edited code/figures.
+3. Brittle. Paper 2 broke within 6 months!
+
+
+---
+
+## Code review project
+
+* Nature Neurosience began a pilot review project in June 2017 to check
+for reproducibility of key figure/table. [Editorial](http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html)
+
+* We wrote some guidelines for making code reproducible. 
+[Commentary](http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html)
+
+
+--- 
+
+## Challenges for a reproducible paper
+
+1. Technical aspects *mostly* there. Docker/Rmd/Jupyter notebooks.
+2. Sustainable compute platform required.
+   [mybinder.org](mybinder.org) was a victim of its own success.
+   [beta.mybinder.org Julia example]()
+3. Long (hours upwards) compute jobs are clearly not interactive.
+
+
+
+&lt;!-- 
+
+skeleton at:
+
+~/NOBACKUP/RLIB/xaringan/rmarkdown/templates/xaringan/skeleton/skeleton.Rmd
+
+ --&gt;
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {window.dispatchEvent(new Event('resize'));});</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
