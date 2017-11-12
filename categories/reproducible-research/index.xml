@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reproducible Research on Stephen J Eglen</title>
-    <link>http://sje30.github.io/categories/reproducible-research/index.xml</link>
+    <link>http://sje30.github.io/categories/reproducible-research/</link>
     <description>Recent content in Reproducible Research on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2016 ~ Stephen J Eglen</copyright>
-    <atom:link href="/categories/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://sje30.github.io/categories/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
     
       
         
@@ -51,7 +51,7 @@ research articles, communities will be able to reproduce and extend
 upon each other&amp;rsquo;s work.  This should lead to more robust scientific
 results and reduce duplication of effort.&lt;/p&gt;
 
-&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;h3 id=&#34;acknowledgements:6e126040f2a6e1a10b0286337a506b42&#34;&gt;Acknowledgements&lt;/h3&gt;
 
 &lt;p&gt;This project emerged from discussions at a workshop to encourage
 sharing in neuroscience, held in Cambridge, December 2014.  It was
@@ -60,7 +60,7 @@ Neuroinformatics Coordinating Facility&lt;/a&gt;,
 with additional support from the
 &lt;a href=&#34;http://www.software.ac.uk&#34;&gt;Software Sustainability Institute&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;h3 id=&#34;references:6e126040f2a6e1a10b0286337a506b42&#34;&gt;References&lt;/h3&gt;
 
 &lt;p&gt;[1] Extending transparency to code. Nat Neurosci 20:761–761.
 &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;

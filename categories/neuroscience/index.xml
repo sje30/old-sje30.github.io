@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuroscience on Stephen J Eglen</title>
-    <link>http://sje30.github.io/categories/neuroscience/index.xml</link>
+    <link>http://sje30.github.io/categories/neuroscience/</link>
     <description>Recent content in Neuroscience on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2016 ~ Stephen J Eglen</copyright>
-    <atom:link href="/categories/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://sje30.github.io/categories/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     
       
         
@@ -51,7 +51,7 @@ research articles, communities will be able to reproduce and extend
 upon each other&amp;rsquo;s work.  This should lead to more robust scientific
 results and reduce duplication of effort.&lt;/p&gt;
 
-&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;h3 id=&#34;acknowledgements:6e126040f2a6e1a10b0286337a506b42&#34;&gt;Acknowledgements&lt;/h3&gt;
 
 &lt;p&gt;This project emerged from discussions at a workshop to encourage
 sharing in neuroscience, held in Cambridge, December 2014.  It was
@@ -60,7 +60,7 @@ Neuroinformatics Coordinating Facility&lt;/a&gt;,
 with additional support from the
 &lt;a href=&#34;http://www.software.ac.uk&#34;&gt;Software Sustainability Institute&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;h3 id=&#34;references:6e126040f2a6e1a10b0286337a506b42&#34;&gt;References&lt;/h3&gt;
 
 &lt;p&gt;[1] Extending transparency to code. Nat Neurosci 20:761–761.
 &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
@@ -98,7 +98,7 @@ with functional data should provide a more complete understanding of
 how the nervous system in different animal species is organized to
 generate appropriate behaviour.&lt;/p&gt;
 
-&lt;h4 id=&#34;table-of-contents&#34;&gt;Table of contents&lt;/h4&gt;
+&lt;h4 id=&#34;table-of-contents:5790eb21c12bba61093a090e8088e524&#34;&gt;Table of contents&lt;/h4&gt;
 
 &lt;p&gt;&lt;em&gt;Editorial: Quantitative Analysis of Neuroanatomy&lt;/em&gt;
 Julian M. L. Budd, Hermann Cuntz, Stephen J. Eglen and Patrik
@@ -213,7 +213,7 @@ meeting brought together several research groups for the first team,
 and has already resulted in several new collaborations across the
 theoretical&amp;ndash;experimental divide.&lt;/p&gt;
 
-&lt;h4 id=&#34;posters&#34;&gt;Posters&lt;/h4&gt;
+&lt;h4 id=&#34;posters:37f52004311e0bfa3f75e36e9db26075&#34;&gt;Posters&lt;/h4&gt;
 
 &lt;p&gt;Twenty-three posters were presented at the meeting.  On the second
 evening of the meeting we ran a ``lightning session&amp;rdquo; where each
@@ -222,7 +222,7 @@ This was regarded as a great innovation, both by the audience and the
 poster presenters, and as such we would like to repeat it in future
 meetings.&lt;/p&gt;
 
-&lt;h4 id=&#34;maps2017-org&#34;&gt;Maps2017.org ?&lt;/h4&gt;
+&lt;h4 id=&#34;maps2017-org:37f52004311e0bfa3f75e36e9db26075&#34;&gt;Maps2017.org ?&lt;/h4&gt;
 
 &lt;p&gt;At the closing discussion session, there was significant support for a
 future meeting in this area, as no other international meeting
