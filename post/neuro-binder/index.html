@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="description" content="Homes">
+    <meta name="description" content="An interactive introduction to computational neuroscience">
     <meta name="author" content="Stephen J Eglen">
 
     <meta name="keyword" content="">
     <link rel="shortcut icon" href="/favicon.ico">
 
-    <title>Homes &middot; Stephen J Eglen</title>
+    <title>An interactive introduction to computational neuroscience &middot; Stephen J Eglen</title>
 
    	
     
@@ -28,7 +28,7 @@
     <script src="http://sje30.github.io//js/bootstrap.min-3.3.5.js"></script>
 
     
-    <link href="http://sje30.github.io/home/index.xml" rel="alternate" type="application/rss+xml" title="Stephen J Eglen" />
+    <link href="" rel="alternate" type="application/rss+xml" title="Stephen J Eglen" />
 </head>
 <body lang="en">
     
@@ -90,36 +90,72 @@
 </nav>
 
 
-	<div class="row">
-		<div class="text-center">
-			<h3>
-				
-					Posts
-				</h3>
-	    </div>
-    </div>
+
+<div class="container">
 	<div class="row">
 		<div class="col-md-offset-1 col-md-10">
-			<ul>
+			<h3>An interactive introduction to computational neuroscience</h3>
+				<span class="label label-primary">2017-11-16</span> in 
 				
-								
-		        		<div class="row">
-	<div class="col-md-offset-2 col-md-6 col-md-offset-2 col-md-6">
-		<h4><a href="http://sje30.github.io/home/">Stephen J Eglen</a></h4>
+					
+					<a href="/categories/neuroscience">neuroscience</a>
+				
+					 , 
+					<a href="/categories/reproducible-research">reproducible research</a>
+				 using tags
+				
+			</small>
+		</div>
 	</div>
-	<div class="col-md-4 col-md-4">
-		<h4>0001-01-01</h4>
+	<div class="row">
+		<div class="col-md-offset-1 col-md-10">
+			<br>
+			<p>For a few years I&rsquo;ve given a workshop, a two hour introduction to
+computational neuroscience, for masters students.  This has covered
+the Hodgkin-Huxley model of action potential generation, reduced
+models, and simple small-networks.  Most of the content was previously
+matlab code, provided by other researchers, most notably <a href="http://cvr.yorku.ca/webpages/wilson.htm">Hugh
+Wilson</a> and <a href="https://www.izhikevich.org/">Eugene
+Izhikevich</a>.</p>
+
+<p>Over the last few months, we (mostly Derek Fulton and Paraskevi
+Mylona) have converted this matlab code to the
+<a href="http://julialang.org">Julia</a> programming language.  This was partly
+to evaluate Julia as a replacement for matlab (and the signs so far
+are very encouraging) and also to evaluate recent cloud-based
+infrastructure for running notebooks.  At the eleventh hour before
+this year&rsquo;s workshop I decided to switch to Julia for running the
+workshop.  Thankfully, on the day all the technology worked perfectly.</p>
+
+<p>To try the workshop for yourself, simply visit the following link:</p>
+
+<p><a href="https://mybinder.org/v2/gh/sje30/julia-python/master?filepath=Introduction%20to%20Computational%20Neuroscience.ipynb"><img src="https://mybinder.org/badge.svg" alt="Binder" /></a></p>
+
+<p>This should launch an interactive Jupyter notebook, where all the
+graphs can be dynamically regenerated.  To try this, first go to the
+<em>Cell menu -&gt; All Output -&gt; Clear</em> to clear al the items and then
+<em>Cell -&gt; Run All</em> to re-generate them.  (The first time you regenrate,
+it may take a while as it needs to load various packages.)</p>
+
+<p>I think this technology is a great way of providing resources.
+Students do not need to load any software onto their local machine;
+all you need is a modern web browser and an internet connection.  No
+more matlab licenses required! It also introduces students to the
+notion of reproducible documents: live figures that can be
+regenerated, rather than static figures.</p>
+
+<p>The tutorial is a bit rough around the edges, and not really
+appropriate for independent study, but I intend to develop more
+resources in this direction, and feedback welcome!</p>
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<hr>
+		</div>
 	</div>
 </div>
-
-		        	
-			    
-		    </ul>
-		</div>
-    </div>
-	<div class="row">
-		<hr>
-	</div>
 
 <div class="container">
         <div class="row col-md-12">
@@ -150,9 +186,6 @@
 		    
                     
                     
-                    
-                        <a href="http://sje30.github.io/home/index.xml" target="_blank">
-                        <i class="fa fa-rss-square fa-2x"></i></a>
                     
                 </div>
             </footer>
