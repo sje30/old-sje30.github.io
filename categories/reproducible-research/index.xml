@@ -33,7 +33,7 @@ comprehensive, and all the experimental data are available, they
 invariably find that many details are missing that preclude them from
 reproducing key figures or results.  Many papers have been published
 on this failure to reproduce [e.g. 2], commonly termed the
-&amp;ldquo;reproducibility crisis&amp;rdquo; [1].&lt;/p&gt;
+&amp;ldquo;reproducibility crisis&amp;rdquo; [1][].&lt;/p&gt;
 
 &lt;p&gt;So, what might reproducible research entail?  The definition can vary
 from group to group, but my interpretation is that when publishing
@@ -84,7 +84,7 @@ analysis.  e.g. &lt;a href=&#34;http://www.datacarpentry.org&#34;&gt;http://www.
 
 &lt;p&gt;References&lt;/p&gt;
 
-&lt;p&gt;[1] Baker M (2016) 1,500 scientists lift the lid on
+&lt;p&gt;[1]:  Baker M (2016) 1,500 scientists lift the lid on
 reproducibility. Nature 533:452–454.  &lt;a href=&#34;http://dx.doi.org/10.1038/533452a&#34;&gt;http://dx.doi.org/10.1038/533452a&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;[2] Ioannidis JPA (2005) Why most published research findings are
