@@ -7,8 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 ~ Stephen J Eglen</copyright>
-    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>An interactive introduction to computational neuroscience</title>
+            <link>http://sje30.github.io/post/brief-open/</link>
+            <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+            
+            <guid>http://sje30.github.io/post/brief-open/</guid>
+            <description>&lt;p&gt;[The following was written for the &lt;a href=&#34;http://www.bna.org.uk&#34;&gt;British Neuroscience Association&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;A brief introduction to reproducible research and open science&lt;/p&gt;
+
+&lt;p&gt;At first glance, it might seem odd that you would need to prefix the
+term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;.  Surely, once you
+have a paper in your hands, you have all the details in front of you
+to reproduce someone else&amp;rsquo;s work?  That&amp;rsquo;s certainly the theory when
+writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip;  Since 2004
+we&amp;rsquo;ve set a problem for our masters students to reproduce key results
+from a paper within computational biology.  Even though students
+carefully select a paper where the methods section seems
+comprehensive, and all the experimental data are available, they
+invariably find that many details are missing that preclude them from
+reproducing key figures or results.  Many papers have been published
+on this failure to reproduce [e.g. 1], commonly termed the
+&amp;ldquo;reproducibility crisis&amp;rdquo; [2].&lt;/p&gt;
+
+&lt;p&gt;So, what might reproducible research entail?  The definition can vary
+from group to group, but my interpretation is that when publishing
+result, labs should also provide all relevant datasets and methodology
+for transforming data into results.  This means providing the
+spreadsheets or computational scripts to reproduce analysis.  In turn,
+this means that researchers should move away from &amp;ldquo;point and click&amp;rdquo;
+analysis methodologies (doing a t-test in Excel) towards computer
+scripts (such as R, matlab or python) so that others can re-run the
+same routines.&lt;/p&gt;
+
+&lt;p&gt;So, this brings us naturally to the second term, open science.  The
+competitive nature (for limited funding, jobs, and &amp;ldquo;high impact&amp;rdquo;
+publications) of science means that there is a natural tendency to
+withold key datasets or analysis technologies: why give away your
+results to your competitors?  An alternative view gaining prominence
+in recent years is that by sharing our resources, we allow others to
+build on our work and science as a whole should benefit.  By being an
+open scientist, there are increased chances of making your work
+reproducible.&lt;/p&gt;
+
+&lt;p&gt;Being an open scientist may seem naïve and altruistic, but there are
+selfish reasons for sharing your research [Markowetz].  Many
+funding agencies now require data management plans for sharing of data
+post publication, and journals are increasingly asking for data and
+methods.  My optimistic hope is that in 10 years we might be able to
+drop the qualifier &amp;ldquo;open&amp;rdquo; and instead talk again simply about science.&lt;/p&gt;
+
+&lt;p&gt;Top tips for becoming an open scientist.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Read the guidelines in Markowetz and think if they would apply to you.&lt;/li&gt;
+&lt;li&gt;Read about experiences such as Erin McKiernan.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do experiments?  Try writing a registered report before doing the
+experiments to reduce publication bias.
+&lt;a href=&#34;https://www.nature.com/articles/s41562-016-0034&#34;&gt;https://www.nature.com/articles/s41562-016-0034&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Talk to your local library to see what services they can offer to
+help archive and share your research.  Find a local community of
+like-minded scientists!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Learn how to code, rather than using Excel, for your data
+analysis.  e.g. www.datacarpentry.org&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Comments?  Send them to me twitter @StephenEglen&lt;/p&gt;
+
+&lt;p&gt;References&lt;/p&gt;
+
+&lt;p&gt;[1] Markowetz F (2015) Five selfish reasons to work reproducibly. Genome
+Biol 16:274.
+&lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7&#34;&gt;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] Ioannidis JPA (2005) Why most published research findings are
+false. PLoS Med 2:e124. &lt;a href=&#34;https://doi.org/10.1371/journal.pmed.0020124&#34;&gt;https://doi.org/10.1371/journal.pmed.0020124&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] Baker M (2016) 1,500 scientists lift the lid on
+reproducibility. Nature 533:452–454.  &lt;a href=&#34;http://dx.doi.org/10.1038/533452a&#34;&gt;http://dx.doi.org/10.1038/533452a&lt;/a&gt;&lt;/p&gt;
+</description>
+          </item>
+        
+      
     
       
         
