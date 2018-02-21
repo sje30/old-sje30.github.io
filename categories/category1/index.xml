@@ -2,78 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category1 on Stephen J Eglen</title>
-    <link>http://sje30.github.io/categories/category1/index.xml</link>
+    <link>http://sje30.github.io/categories/category1/</link>
     <description>Recent content in Category1 on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 ~ Stephen J Eglen</copyright>
-    <atom:link href="/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Mar 2016 14:49:35 +0000</lastBuildDate>
     
-      
+	<atom:link href="http://sje30.github.io/categories/category1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research</title>
+      <link>http://sje30.github.io/page/research/</link>
+      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
       
-        
-          <item>
-            <title>first</title>
-            <link>http://sje30.github.io/post/first/</link>
-            <pubDate>Wed, 02 Mar 2016 14:48:09 +0000</pubDate>
-            
-            <guid>http://sje30.github.io/post/first/</guid>
-            <description>&lt;p&gt;Content of the file goes here&lt;/p&gt;
-
-&lt;p&gt;here is a very long para
-here is a very long para
-here is a very long para
-here is a very long para
-here is a very long para
-here is a very long para
-here is a very long para&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;this is a quote&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;pre&gt;&lt;code&gt;verbatim
-verbatim
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;right&#34;&gt;Right&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Left&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Center&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;Long Content To&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Spread Out the Width&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Of the Table To See Alignment&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;Right&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Left&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Center&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;a&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;b&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;c&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot;
-x = 10
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-          </item>
-        
+      <guid>http://sje30.github.io/page/research/</guid>
+      <description> Retinal waves Analysis of neural spike trains Topographic map formation Reproducible research Open access </description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://sje30.github.io/post/first/</link>
+      <pubDate>Wed, 02 Mar 2016 14:48:09 +0000</pubDate>
       
+      <guid>http://sje30.github.io/post/first/</guid>
+      <description>Content of the file goes here
+here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
+ this is a quote
+ verbatim verbatim     Right Left Center     Long Content To Spread Out the Width Of the Table To See Alignment   Right Left Center   a b c    s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot; x = 10  </description>
+    </item>
     
   </channel>
 </rss>

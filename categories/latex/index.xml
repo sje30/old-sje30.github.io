@@ -2,51 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latex on Stephen J Eglen</title>
-    <link>http://sje30.github.io/categories/latex/index.xml</link>
+    <link>http://sje30.github.io/categories/latex/</link>
     <description>Recent content in Latex on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 ~ Stephen J Eglen</copyright>
-    <atom:link href="/categories/latex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2016 14:48:09 +0000</lastBuildDate>
     
+	<atom:link href="http://sje30.github.io/categories/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to LaTeX</title>
+      <link>http://sje30.github.io/post/latex2016/</link>
+      <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
       
-        
-          <item>
-            <title>Introduction to LaTeX</title>
-            <link>http://sje30.github.io/post/latex2016/</link>
-            <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
-            
-            <guid>http://sje30.github.io/post/latex2016/</guid>
-            <description>
-
-&lt;p&gt;Every year I give a one-hour lecture introducting LaTeX to mathematics
-undergraduates and Masters students.  After the lecture, I normally
-host a lab session for students to work through some material.&lt;/p&gt;
-
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-
-&lt;p&gt;The
-&lt;a href=&#34;https://github.com/sje30/latex101/blob/master/latex101.pdf&#34;&gt;slides&lt;/a&gt;
-for the talk are, of-course, written in LaTeX using the
-&lt;a href=&#34;https://sourceforge.net/projects/latex-beamer/&#34;&gt;Beamer&lt;/a&gt; package.  The
-source code for the files are available on
-&lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.  (New for 2016 is that
-I&amp;rsquo;ve switch to the &lt;em&gt;sourcesanspro&lt;/em&gt; font.)&lt;/p&gt;
-
-&lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
-
-&lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
-their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
-corresponding output is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.pdf&#34;&gt;intro.pdf&lt;/a&gt;.  To recompile the document yourself,
-you will need to download the whole directory.  The easiest way to do
-this is to do:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sje30/texintro
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-          </item>
-        
-      
+      <guid>http://sje30.github.io/post/latex2016/</guid>
+      <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.
+Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&amp;rsquo;ve switch to the sourcesanspro font.)
+Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
+    </item>
     
   </channel>
 </rss>

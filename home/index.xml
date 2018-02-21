@@ -2,14 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Stephen J Eglen</title>
-    <link>http://sje30.github.io/home/index.xml</link>
+    <link>http://sje30.github.io/home/</link>
     <description>Recent content in Homes on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 ~ Stephen J Eglen</copyright>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
+	<atom:link href="http://sje30.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stephen J Eglen</title>
+      <link>http://sje30.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>http://sje30.github.io/home/</guid>
+      <description>I am a Reader in Computational Neuroscience in the Department of Applied Mathematics and Theoretical Physics, and member of the Cambridge Computational Biology Institute CCBI. I use computational techniques to investigate development of the nervous system. I am also director of the MPhil in Computational Biology. Fellow of Magdalene College.
+orcid.org/0000-0001-8607-8025
+Office hour I normally have an office hour during term time. My office hour in Michaelmas term is Monday 1-2pm in G0.</description>
+    </item>
     
   </channel>
 </rss>

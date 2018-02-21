@@ -2,25 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Stephen J Eglen</title>
-    <link>http://sje30.github.io/page/index.xml</link>
+    <link>http://sje30.github.io/page/</link>
     <description>Recent content in Pages on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 ~ Stephen J Eglen</copyright>
     <lastBuildDate>Wed, 02 Mar 2016 14:49:35 +0000</lastBuildDate>
-    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
-      
+	<atom:link href="http://sje30.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
-      
     
+    <item>
+      <title>Research</title>
+      <link>http://sje30.github.io/page/research/</link>
+      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
       
+      <guid>http://sje30.github.io/page/research/</guid>
+      <description> Retinal waves Analysis of neural spike trains Topographic map formation Reproducible research Open access </description>
+    </item>
     
+    <item>
+      <title></title>
+      <link>http://sje30.github.io/page/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>http://sje30.github.io/page/license/</guid>
+      <description>hello.</description>
+    </item>
     
+    <item>
+      <title>Papers</title>
+      <link>http://sje30.github.io/page/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>http://sje30.github.io/page/papers/</guid>
+      <description>After each reference, Paper links to papers; Info to further information about that paper, including code and data.
+Preprints Cotterill E, Eglen SJ (2018) Burst detection methods. arXiv [q-bioNC] Paper.
+Gelfman S, Wang Q, Lu Y-F, Hall D, Bostick C, Dhindsa R, Halvorsen M, Melodi McSweeney K, Cotterill E, Edinburgh T, Petrovski S, Boland MJ, Allen AS, Goldstein DB, Eglen SJ (2018) meaRtools: an R package for the Comprehensive Analysis of Neuronal Networks Recorded on Multi-Electrode Arrays.</description>
+    </item>
     
+    <item>
+      <title>Resources</title>
+      <link>http://sje30.github.io/page/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
+      <guid>http://sje30.github.io/page/resources/</guid>
+      <description>Here you can find various resources that I have made available to the community. A key principle of our work is that whenever possible, we make our code and data freely available to the community. You can find links to the relevant code/data alongside each paper listed on my publications page.
+In addition to those papers, I highlight some key resources below.
+IntactEye IntactEye is a program for measuring the location of injection sites in the intact eye.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://sje30.github.io/page/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sje30.github.io/page/talks/</guid>
+      <description>Here are some slides for talks I have given recently. (Some Keynote slides are missing.)
+2017 On a role for competition (and sharing) in computational neuroscience BNDU Science Day, Oxford.
+Encouraging code and data sharing in neuroscience RDM meeting, Cambridge.
+Encouraging code and data sharing in neuroscience CNS 2017 Workshops, Antwerp.
+Detecting pairwise correlations in high-density recordings: open science in action CNS 2017 Workshops, Antwerp.
+Encouraging code sharing in academia, Research software management, sharing and sustainability workshop, Cambridge.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://sje30.github.io/page/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sje30.github.io/page/teaching/</guid>
+      <description>I lecture on several courses in the University. In 2015&amp;ndash;16 these are:
+ Computaional Neuroscience Scientific Programming in R Part II Neuroscience (N1: Developmental Neuroscience)   </description>
+    </item>
     
   </channel>
 </rss>
