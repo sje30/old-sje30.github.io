@@ -6,20 +6,27 @@
     <description>Recent content in Software on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2016 ~ Stephen J Eglen</copyright>
     <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://sje30.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="http://sje30.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Why paperpile?</title>
-      <link>http://sje30.github.io/post/why-paperpile/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://sje30.github.io/post/why-paperpile/</guid>
-      <description>Why is paperpile useful?</description>
-    </item>
+        
+          <item>
+            <title>Why paperpile?</title>
+            <link>http://sje30.github.io/post/why-paperpile/</link>
+            <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+            
+            <guid>http://sje30.github.io/post/why-paperpile/</guid>
+            <description>&lt;p&gt;Why is paperpile useful?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;tidies your pdf names.&lt;/li&gt;
+&lt;li&gt;allows you to share papers as tidy list.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+          </item>
+        
+      
     
   </channel>
 </rss>
