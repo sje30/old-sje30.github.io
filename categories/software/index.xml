@@ -34,15 +34,15 @@ page), you can click on the Paperpile button in your browser to
 download the paper and its metadata.  It also adds Paperpile import
 buttons on sites like &lt;a href=&#34;http://scholar.google.co.uk&#34;&gt;Google
 Scholar&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org&#34;&gt;arXiv&lt;/a&gt; and
-&lt;a href=&#34;http://pubmed.gov&#34;&gt;Pubmed&lt;/a&gt; to easily import data.  Below
+&lt;a href=&#34;http://pubmed.gov&#34;&gt;PubMed&lt;/a&gt; to easily import data.  Below
 is partial output from arXiv &amp;ndash; at the end of each &lt;em&gt;Subjects&lt;/em&gt;
 line you should see the &amp;ldquo;+ Paperpile&amp;rdquo; button that you can click to add
 the article to your collection.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://sje30.github.io/img/arxiv-paperpile.png&#34; alt=&#34;Paperpile buttons on arXiv&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here are some of the reasons I like paperpile, beyond those shown in
-the youtube movie.  I also mention some current limitations.&lt;/p&gt;
+&lt;p&gt;Here are some of the reasons I like paperpile; I also mention some
+current limitations at the end.&lt;/p&gt;
 
 &lt;h4 id=&#34;bibtex-support:7227b2bf899686212fedfb82b162d860&#34;&gt;BibTeX support&lt;/h4&gt;
 
