@@ -33,22 +33,22 @@ shows it in action:&lt;/p&gt;
 page), you can click on the Paperpile button in your browser to
 download the paper and its metadata.  It also adds Paperpile import
 buttons on sites like &lt;a href=&#34;http://scholar.google.co.uk&#34;&gt;Google
-Scholar&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org&#34;&gt;Arxiv&lt;/a&gt; and
+Scholar&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org&#34;&gt;arXiv&lt;/a&gt; and
 &lt;a href=&#34;http://pubmed.gov&#34;&gt;Pubmed&lt;/a&gt; to easily import data.  Below
-is partial output from arxiv &amp;ndash; at the end of each &lt;em&gt;Subjects&lt;/em&gt;
+is partial output from arXiv &amp;ndash; at the end of each &lt;em&gt;Subjects&lt;/em&gt;
 line you should see the &amp;ldquo;+ Paperpile&amp;rdquo; button that you can click to add
 the article to your collection.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://sje30.github.io/img/arxiv-paperpile.png&#34; alt=&#34;Paperpile buttons on arxiv&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://sje30.github.io/img/arxiv-paperpile.png&#34; alt=&#34;Paperpile buttons on arXiv&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here are some of the reasons I like paperpile, beyond those shown in
-the youtube movie.&lt;/p&gt;
+the youtube movie.  I also mention some current limitations.&lt;/p&gt;
 
 &lt;h4 id=&#34;bibtex-support:7227b2bf899686212fedfb82b162d860&#34;&gt;BibTeX support&lt;/h4&gt;
 
-&lt;p&gt;Paperpile has first class support for bibtex references.  If you use
-LaTeX, you will never need to hand-write a bibtex reference again.
-Here is an example bibtex reference as formatted by Paperpile:&lt;/p&gt;
+&lt;p&gt;Paperpile has first class support for BibTeX references.  If you use
+LaTeX, you will never need to hand-write a BibTeX reference again.
+Here is an example BibTeX reference as formatted by Paperpile:&lt;/p&gt;
 
 &lt;pre&gt;
 
@@ -82,16 +82,16 @@ Here is an example bibtex reference as formatted by Paperpile:&lt;/p&gt;
 &lt;p&gt;My workflow is that I create a Paperpile tag for each paper that I&amp;rsquo;m
 writing, and mark the papers I&amp;rsquo;m referencing with that tag.  I can
 then easily select all the papers with that tag, and export all those
-references as bibtex entries, and copy them into my bibtex file.&lt;/p&gt;
+references as BibTeX entries, and copy them into my BibTeX file.&lt;/p&gt;
 
-&lt;p&gt;By default, the tag used for a bibtex reference is automatically
+&lt;p&gt;By default, the tag used for a BibTeX reference is automatically
 generated, e.g. &lt;em&gt;Damani2011-99e&lt;/em&gt; above.  The &lt;em&gt;-99e&lt;/em&gt; suffix is a
 hashcode, which I used to find a bit irritating as you can&amp;rsquo;t remember
 them, but now I simply use my latex editor (Emacs) to look up the
-bibtex keys anyway.  If you prefer your own bibtex tags, you can edit
+BibTeX keys anyway.  If you prefer your own BibTeX tags, you can edit
 the metadata.&lt;/p&gt;
 
-&lt;p&gt;if you are not a BibTeX user, then you might find the Google Docs
+&lt;p&gt;If you are not a BibTeX user, then you might find the Google Docs
 plugin useful for writing papers with references.  (See below for Word
 users&amp;hellip;)&lt;/p&gt;
 
@@ -116,10 +116,10 @@ corresponding link.&lt;/p&gt;
 &lt;h4 id=&#34;it-tidies-your-pdf-collection:7227b2bf899686212fedfb82b162d860&#34;&gt;It tidies your pdf collection&lt;/h4&gt;
 
 &lt;p&gt;If you have a large collection of PDFs living in some folder on your
-laptop, you can import them directly into paperpile.  It does a very
+laptop, you can import them directly into Paperpile.  It does a very
 good job at extracting the metadata from PDFs (but of course this is
-dependent on the quality of the PDF).  Your pdfs live on google drive
-and organizes them into folders, one per letter of the alphabet,
+dependent on the quality of the PDF).  Your PDFs live on Google drive
+and organises them into folders, one per letter of the alphabet,
 such as &lt;strong&gt;Google Drive / Paperpile / AllPapers / D / Damani et al. 2011 -
 Age-related alterations in the dynamic behaviour of microglia.pdf&lt;/strong&gt;&lt;/p&gt;
 
@@ -155,10 +155,9 @@ expensive, is more than some of the competition:
 &lt;a href=&#34;http://zotero.org&#34;&gt;zotero&lt;/a&gt; and Mendeley are free.  Individuals can
 get a free one-month trial to evaluate it.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;You need to be online to use it.  If you are not online, you won&amp;rsquo;t
-be able to use the application.  (In this case I recommed you use
-Google Drive to ensure you have the Paperpile folder always backed
-up on your laptop so that you can always read your papers.)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You need to be online to use it.  (In this case I recommed you use
+Google Drive to ensure you have the Paperpile folder synced to your
+laptop so that you can always read your papers.)&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&#34;summary:7227b2bf899686212fedfb82b162d860&#34;&gt;Summary&lt;/h3&gt;
@@ -172,6 +171,9 @@ Cambridge are trialing a site license for a year to assess its
 utility.  We would encourage other departments around Cambridge to
 consider joining in.  Please contact &lt;a href=&#34;http://sje30.github.io&#34;&gt;me&lt;/a&gt; for
 further details.&lt;/p&gt;
+
+&lt;!--  LocalWords:  Paperpile
+ --&gt;
 </description>
           </item>
         
