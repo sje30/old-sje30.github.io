@@ -6,7 +6,7 @@
     <description>Recent content in Software on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://sje30.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
       
@@ -14,15 +14,164 @@
           <item>
             <title>Why paperpile?</title>
             <link>http://sje30.github.io/post/why-paperpile/</link>
-            <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
             
             <guid>http://sje30.github.io/post/why-paperpile/</guid>
-            <description>&lt;p&gt;Why is paperpile useful?&lt;/p&gt;
+            <description>
+
+&lt;p&gt;&lt;a href=&#34;http://paperpile.com&#34;&gt;Paperpile&lt;/a&gt; is a web application to manage your academic
+PDFs and other references.  There is a snappy 2 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; minute video that
+shows it in action:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/0r80ecyGlCw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;When visiting a web page containing a paper (e.g. from a journal web
+page), you can click on the Paperpile button in your browser to
+download the paper and its metadata.  It also adds Paperpile import
+buttons on sites like &lt;a href=&#34;http://scholar.google.co.uk&#34;&gt;Google
+Scholar&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org&#34;&gt;Arxiv&lt;/a&gt; and
+&lt;a href=&#34;http://pubmed.gov&#34;&gt;Pubmed&lt;/a&gt; to easily import data.  Below
+is partial output from arxiv &amp;ndash; at the end of each &lt;em&gt;Subjects&lt;/em&gt;
+line you should see the &amp;ldquo;+ Paperpile&amp;rdquo; button that you can click to add
+the article to your collection.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sje30.github.io/img/arxiv-paperpile.png&#34; alt=&#34;Paperpile buttons on arxiv&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some of the reasons I like paperpile, beyond those shown in
+the youtube movie.&lt;/p&gt;
+
+&lt;h4 id=&#34;bibtex-support:7227b2bf899686212fedfb82b162d860&#34;&gt;BibTeX support&lt;/h4&gt;
+
+&lt;p&gt;Paperpile has first class support for bibtex references.  If you use
+LaTeX, you will never need to hand-write a bibtex reference again.
+Here is an example bibtex reference as formatted by Paperpile:&lt;/p&gt;
+
+&lt;pre&gt;
+
+@ARTICLE{Damani2011-99e,
+  title    = &#34;Age-related alterations in the dynamic behavior of microglia&#34;,
+  author   = &#34;Damani, Mausam R and Zhao, Lian and Fontainhas, Aurora M and
+              Amaral, Juan and Fariss, Robert N and Wong, Wai T&#34;,
+  abstract = &#34;Microglia, the primary resident immune cells of the central
+              nervous system (CNS), exhibit dynamic behavior involving rapid
+              process motility and cellular migration that is thought to
+              underlie key functions of immune surveillance and tissue repair.
+              Although age-related changes in microglial activation have been
+              ... abstract truncated for brevity ...
+              behavior at rest and following injury reveal an age-dependent
+              dysregulation of immune response in the CNS that may illuminate
+              microglial contributions to age-related neuroinflammatory
+              degeneration.&#34;,
+  journal  = &#34;Aging Cell&#34;,
+  volume   =  10,
+  number   =  2,
+  pages    = &#34;263--276&#34;,
+  month    =  apr,
+  year     =  2011,
+  issn     = &#34;1474-9718&#34;,
+  pmid     = &#34;21108733&#34;,
+  doi      = &#34;10.1111/j.1474-9726.2010.00660.x&#34;,
+  pmc      = &#34;PMC3056927&#34;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;My workflow is that I create a Paperpile tag for each paper that I&amp;rsquo;m
+writing, and mark the papers I&amp;rsquo;m referencing with that tag.  I can
+then easily select all the papers with that tag, and export all those
+references as bibtex entries, and copy them into my bibtex file.&lt;/p&gt;
+
+&lt;p&gt;By default, the tag used for a bibtex reference is automatically
+generated, e.g. &lt;em&gt;Damani2011-99e&lt;/em&gt; above.  The &lt;em&gt;-99e&lt;/em&gt; suffix is a
+hashcode, which I used to find a bit irritating as you can&amp;rsquo;t remember
+them, but now I simply use my latex editor (Emacs) to look up the
+bibtex keys anyway.  If you prefer your own bibtex tags, you can edit
+the metadata.&lt;/p&gt;
+
+&lt;p&gt;if you are not a BibTeX user, then you might find the Google Docs
+plugin useful for writing papers with references.  (See below for Word
+users&amp;hellip;)&lt;/p&gt;
+
+&lt;h4 id=&#34;sharing-papers-with-others-is-easy:7227b2bf899686212fedfb82b162d860&#34;&gt;Sharing papers with others is easy&lt;/h4&gt;
+
+&lt;p&gt;Before using Paperpile, if I wanted to share a paper with a colleague,
+I&amp;rsquo;d email it to them.  Works fine, but then your inbox gets clogged up
+with lots of emails containing large PDF attachments.  Paperpile
+allows you to share links to papers.  E.g. here is a link for the
+&lt;a href=&#34;https://paperpile.com/app/p/cd0a745f-a4ff-0cb7-b457-0a2a3e7b309e&#34;&gt;Damani et
+al. paper&lt;/a&gt;.
+Furthemore, this extends to sharing multiple papers at once.  For
+example, if you organise papers into folders, you can freely share the
+PDFs in a folder by sharing the link to that folder.  Here is an
+example of a &lt;a href=&#34;https://paperpile.com/shared/toXwJV&#34;&gt;folder link&lt;/a&gt; that I
+created to accompany a tutorial.  This is an excellent resource for
+sharing papers.  You must however actively create a link to share your
+papers &amp;ndash; by default, everything is private to your account.  Papers
+can be shared with named individuals or to anyone who has the
+corresponding link.&lt;/p&gt;
+
+&lt;h4 id=&#34;it-tidies-your-pdf-collection:7227b2bf899686212fedfb82b162d860&#34;&gt;It tidies your pdf collection&lt;/h4&gt;
+
+&lt;p&gt;If you have a large collection of PDFs living in some folder on your
+laptop, you can import them directly into paperpile.  It does a very
+good job at extracting the metadata from PDFs (but of course this is
+dependent on the quality of the PDF).  Your pdfs live on google drive
+and organizes them into folders, one per letter of the alphabet,
+such as &lt;strong&gt;Google Drive / Paperpile / AllPapers / D / Damani et al. 2011 -
+Age-related alterations in the dynamic behaviour of microglia.pdf&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, even if nothing else you can get your PDFs reorganized.  (To see
+this google drive on your laptop, use &lt;a href=&#34;https://www.google.co.uk/drive/&#34;&gt;Google
+Drive&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;it-is-very-slick-at-what-it-does:7227b2bf899686212fedfb82b162d860&#34;&gt;It is very slick at what it does&lt;/h4&gt;
+
+&lt;p&gt;Other reference managers are available, e.g. zotero, but I&amp;rsquo;ve found
+paperpile to be incredibly efficient at organising papers.  The
+interface has been designed with care.  The Paperpile team are
+efficient at answering queries, and there is a useful
+&lt;a href=&#34;http://forum.paperpile.com&#34;&gt;forum&lt;/a&gt; for discussions and requests.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-not-paperpile:7227b2bf899686212fedfb82b162d860&#34;&gt;Why not paperpile?&lt;/h3&gt;
+
+&lt;p&gt;Paperpile isn&amp;rsquo;t perfect (yet).  Some reasons that you may need to
+consider:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;tidies your pdf names.&lt;/li&gt;
-&lt;li&gt;allows you to share papers as tidy list.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It does not yet have a Word plugin, so you can&amp;rsquo;t seamlessly write
+manuscripts in Word and include references from paperpile.  I
+believe there is a Word plug-in coming soon though, which hopefully
+will look something like the Google docs plugin.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You must use the &lt;a href=&#34;https://www.google.co.uk/chrome/&#34;&gt;Google Chrome&lt;/a&gt;
+web browser to access Paperpile.  Support for android and ipad
+devices are also in the works.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cost.  Paperpile costs about $3/month, which although not
+expensive, is more than some of the competition:
+&lt;a href=&#34;http://zotero.org&#34;&gt;zotero&lt;/a&gt; and Mendeley are free.  Individuals can
+get a free one-month trial to evaluate it.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You need to be online to use it.  If you are not online, you won&amp;rsquo;t
+be able to use the application.  (In this case I recommed you use
+Google Drive to ensure you have the Paperpile folder always backed
+up on your laptop so that you can always read your papers.)&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h3 id=&#34;summary:7227b2bf899686212fedfb82b162d860&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;Paperpile is an excellent tool for managing your academic references.&lt;/p&gt;
+
+&lt;h3 id=&#34;for-cambridge-readers:7227b2bf899686212fedfb82b162d860&#34;&gt;For Cambridge readers&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.maths.cam.ac.uk&#34;&gt;Maths faculty&lt;/a&gt; at the University of
+Cambridge are trialing a site license for a year to assess its
+utility.  We would encourage other departments around Cambridge to
+consider joining in.  Please contact &lt;a href=&#34;http://sje30.github.io&#34;&gt;me&lt;/a&gt; for
+further details.&lt;/p&gt;
 </description>
           </item>
         
